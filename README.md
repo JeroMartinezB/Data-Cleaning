@@ -30,7 +30,9 @@ Numeric task IDs in the **task** column are replaced with descriptive labels.
 Class labels are normalized to either HOA (Healthy Older Adults) or PD (Parkinson’s Disease).
 
 **5. Adjust column data types**
+
 After checking each column's datatype, the **duration** column, initially stored as strings, is converted to integers for proper numerical operations.
 
 **6. Export the cleaned dataset**
+
 The cleaned data is saved as a new CSV file.
