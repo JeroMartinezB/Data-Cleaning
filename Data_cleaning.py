@@ -69,9 +69,3 @@ print(type(data_frame["duration"].sum())) # Confirm
 
 # Write the clean data
 data_frame.to_csv("pd_hoa_dataset_cleaned.csv", index=False)
-
-# Reflection
-# The explanation was clear and clean, so I faced little to no challenges at all
-# Instead, I learned by hands on experience how important cleaning and normalizing
-# data is. Something as little as a missing value or an outlier, can completely change
-# the inductive bias, so it is crucial that the data is consistent and clean. 
