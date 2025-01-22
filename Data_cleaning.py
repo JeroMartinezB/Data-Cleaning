@@ -1,8 +1,3 @@
-# Jeronimo Martinez Barragan
-# CSC 362
-# Assignment 2
-# Cleaning a Dataset
-
 import numpy as np
 import pandas as pd
 
